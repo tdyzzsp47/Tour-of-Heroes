@@ -1,10 +1,4 @@
 const state = {
-  top_heroes: [
-    {id: 11, name: "Mr. Nice"},
-    {id: 12, name: "Narco"},
-    {id: 13, name: "Bombasto"},
-    {id: 14, name: "Celeritas"}
-  ],
   heroes_list: [
     {id: 11, name: "Mr. Nice"},
     {id: 12, name: "Narco"},
